@@ -1,6 +1,8 @@
 # Inclusive commercial principles
 
-Use this boilerplate language to write or update your organization’s ethical principles guiding who you do business with, inspired by the [Hippocratic License](https://firstdonoharm.dev/) for software. This document assumes your org has **Leadership Principles** and an **Acceptable Use Policy** to link to.
+Use this boilerplate language to write or update your organization’s ethical principles guiding who you do business with, inspired by the [Hippocratic License](https://firstdonoharm.dev/) for software. This document assumes your org has **Leadership Principles** and an **Acceptable Use Policy** to link to. The language as-is has not passed any form of legal review; it is meant to be astarting point for your org’s specific needs.
+
+This document may serve as a set of guidelines for an internal or external Ethics Review Board that evalutes customer relationships or otherwise serve as a living internal document meant to explain who you do and do not engage with in commercial partnerships. 
 
 ---
 
@@ -10,10 +12,10 @@ We offer our products and services to as broad an audience as possible, complyin
 ### Community and customer standards
 We maintain and enforce a published **Acceptable Use Policy** that governs participation and interaction on our platform. Customers, as well as other users, are expected to abide by this policy.
 
-### Upholding human rights
+### Defending human rights
 We will not uphold relationships with customers whose behaviors actively cause harm to others. We determine “harm” as behaviors inconsistent with the [United Nations Universal Declaration of Human Rights](https://www.un.org/en/about-us/universal-declaration-of-human-rights). If a customer has knowingly violated these human rights, we will terminate the relationship.
 
-We aim to work with organizations that uphold these principles of the [United Nations Global Compact](https://www.unglobalcompact.org/what-is-gc/mission/principles), provided here, edited for clarity:
+We aim to work with organizations that model the principles of the [United Nations Global Compact](https://www.unglobalcompact.org/what-is-gc/mission/principles), provided here and edited for clarity:
 
 - Businesses should support and respect the protection of [internationally proclaimed human rights](https://www.un.org/en/about-us/universal-declaration-of-human-rights) and make sure that they are not complicit in human rights abuses.
 - Businesses should uphold the freedom of association and the effective recognition of the right to collective bargaining, the elimination of all forms of forced and compulsory labour, the effective abolition of child labour, and the elimination of discrimination in respect of employment and occupation. 
